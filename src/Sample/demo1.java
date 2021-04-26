@@ -7,6 +7,7 @@ public class demo1
 		
 		System.out.println(" baba ka birthday aya");
 		System.out.println(" baba is great man");
+		
 	}
 
 }
